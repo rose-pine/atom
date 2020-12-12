@@ -10,7 +10,6 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Usage
 
-1. 
 1. Clone into `~/.atom/packages/` and rename the folder from `atom` to `rose-pine-syntax`
 2. `apm install`
 3. Atom > Settings > Themes > Syntax > Rosé Pine
