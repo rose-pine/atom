@@ -17,7 +17,7 @@
 2. `apm install`
 3. Atom > Settings > Themes > Syntax > Rosé Pine
 
-## Screenshots
+## Gallery
 
 ![Rosé Pine for Atom](https://i.imgur.com/PtMmXQk.png)
 
